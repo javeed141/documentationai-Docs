@@ -19,6 +19,10 @@
             "icon": "rocket",
             "pages": [
               {
+                "group": "ft",
+                "pages": []
+              },
+              {
                 "title": "YouTube overview",
                 "path": "javeed-happy",
                 "icon": "play-circle"
@@ -75,6 +79,10 @@
                 "icon": "columns"
               }
             ]
+          },
+          {
+            "group": "ghj",
+            "pages": []
           }
         ]
       },
@@ -153,6 +161,10 @@
             "icon": "history"
           }
         ]
+      },
+      {
+        "tab": "this",
+        "pages": []
       }
     ]
   }
