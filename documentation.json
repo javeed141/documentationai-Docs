@@ -19,8 +19,9 @@
             "icon": "rocket",
             "pages": [
               {
-                "title": "Javeed Happy",
-                "path": "javeed-happy"
+                "title": "YouTube overview",
+                "path": "javeed-happy",
+                "icon": "play-circle"
               },
               {
                 "title": "Introduction",
