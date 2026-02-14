@@ -19,6 +19,10 @@
             "icon": "rocket",
             "pages": [
               {
+                "title": "Javeed Happy",
+                "path": "javeed-happy"
+              },
+              {
                 "title": "Introduction",
                 "path": "introduction",
                 "icon": "home"
